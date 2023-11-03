@@ -1,0 +1,16 @@
+ul.main {text-align: center;
+    list-style-position: inside}
+
+li.pealkiri {
+    font-weight: bold;
+}
+
+ul.tava{
+    font-weight: normal;
+}
+
+h2.title {
+    text-align: center;
+    font-weight: bold;
+}
+

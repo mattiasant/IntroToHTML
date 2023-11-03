@@ -1,14 +1,14 @@
-a.link2 {color: white}
+a.link2 {color: lightpink}
 a.link2:link {
-    color: #FFFFFF;
+    color: lightpink;
     text-decoration: none;
 }
 a.link2:active {
-    color: #FFFFFF;
+    color: lightpink;
 }
 a.link2:visited {
-    color: #FFFFFF;
+    color: lightpink;
 }
 a.link2:hover {
-    color:#6BD5F5;
+    color:aquamarine;
 }
